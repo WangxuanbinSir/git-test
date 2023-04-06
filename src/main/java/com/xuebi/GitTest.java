@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("Hello git!");
         System.out.println("hello github");
         System.out.println("hello git3");
+        System.out.println("这是hot-fix分支");
     }
 }
