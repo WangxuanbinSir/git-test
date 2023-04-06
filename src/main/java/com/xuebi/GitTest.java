@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("这是hot-fix分支");
         System.out.println("22222222222");
         System.out.println("1111111");
+        System.out.println("push test");
     }
 }
